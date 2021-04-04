@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Matin Nuhamunada"
-  avatar           : "https://www.dtu.dk/gimage.ashx?i=VHJ1ZV9ffHxfX2h0dHBzOi8vd3d3LmR0dWJhc2VuLmR0dS5kay9zaG93aW1hZ2UuYXNweD9pZD0xNTM0MzFfX3x8X18xMDNfX3x8X18xNDBfX3x8X19UcnVlX198fF9fRmFsc2VfX3x8X19GYWxzZV9ffHxfXzBfX3x8X19fX3x8X18w" #"profile.png"
+  avatar           : #"avatar.png"
   bio              : "Pre-Doctoral Student at DTU Biosustain | Natural Products Genome Mining | Soil Metagenome"
-  location         : "[Copenhagen, Denmark](https://goo.gl/maps/7FCqsnJifWzz5Z2AA)"
+  location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
