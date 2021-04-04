@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* S.Si. (B.Sc. equivalent) in Biology, Universitas Gadjah Mada, 2014
+* M.Sc. in Synthetic Biology and Biotechnology, The University of Edinburgh, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2020 - Present: Research Assistant / Pre-Doctoral Student
+  * Natural Products Genome Mining Research Group, DTU Biosustain
+  * Genome mining of soil microbial isolates from Dyrehavn
+  * Supervisor: Professor Tilmann Weber
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2017 - August 2020: Junior Lecturer
+  * Faculty of Biology, Universitas Gadjah Mada
+  * Teaching / Research Assistant in the Laboratory of Biotechnology
   
 Skills
 ======
@@ -54,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
