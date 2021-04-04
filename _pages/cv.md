@@ -7,23 +7,22 @@ redirect_from:
   - /resume
 ---
 
+***
+
 {% include base_path %}
 
 Education
 ======
-* S.Si. (B.Sc. equivalent) in Biology, Universitas Gadjah Mada, 2014
-* M.Sc. in Synthetic Biology and Biotechnology, The University of Edinburgh, 2016
+**The University of Edinburgh**, M.Sc. in Synthetic Biology and Biotechnology (Nov 2016)
+
+**Universitas Gadjah Mada**, S.Si. (B.Sc. equivalent) in Biology (Nov 2014)
+
 
 Work experience
 ======
-* September 2020 - Present: Research Assistant / Pre-Doctoral Student
-  * Natural Products Genome Mining Research Group, DTU Biosustain
-  * Genome mining of soil microbial isolates from Dyrehavn
-  * Supervisor: Professor Tilmann Weber
+**September 2020 - Present**: Research Assistant / Pre-Doctoral Student in Natural Products Genome Mining Research Group, DTU Biosustain. Working with genome mining of soil microbial isolates from Dyrehavn. Supervised by Professor Tilmann Weber.
 
-* June 2017 - August 2020: Junior Lecturer
-  * Faculty of Biology, Universitas Gadjah Mada
-  * Teaching / Research Assistant in the Laboratory of Biotechnology
+**June 2017 - August 2020**: Junior Lecturer at Faculty of Biology, Universitas Gadjah Mada. Working as Teaching / Research Assistant in the Laboratory of Biotechnology.
   
 Skills
 ======
