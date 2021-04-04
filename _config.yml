@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matin Nuhamunada"
-  avatar           : "avatar.png"
+  avatar           : "images/avatar.png"
   bio              : "Pre-Doctoral Student at DTU Biosustain | Natural Products Genome Mining | Soil Metagenome"
   location         : "Copenhagen, Denmark"
   employer         :
