@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Matin Nuhamunada"
-  avatar           : "profile.png"
-  bio              : "Pre-Doctoral Student at the Novo Nordisk Foundation Center for Biosustainability. Natural Products Genome Mining"
-  location         : "Copenhagen, Denmark"
+  avatar           : "https://www.dtu.dk/gimage.ashx?i=VHJ1ZV9ffHxfX2h0dHBzOi8vd3d3LmR0dWJhc2VuLmR0dS5kay9zaG93aW1hZ2UuYXNweD9pZD0xNTM0MzFfX3x8X18xMDNfX3x8X18xNDBfX3x8X19UcnVlX198fF9fRmFsc2VfX3x8X19GYWxzZV9ffHxfXzBfX3x8X19fX3x8X18w" #"profile.png"
+  bio              : "Pre-Doctoral Student at DTU Biosustain | Natural Products Genome Mining | Soil Metagenome"
+  location         : "[Copenhagen, Denmark](https://goo.gl/maps/7FCqsnJifWzz5Z2AA)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-3177-8299"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@MatinNuhamunada"
   vine             :
   weibo            :
   xing             :
