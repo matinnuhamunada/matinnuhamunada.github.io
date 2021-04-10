@@ -1,6 +1,6 @@
 ---
 title: 'Setting up Jupyter using Conda in WSL2'
-date: 2021-04-04
+date: 2021-04-10
 permalink: /posts/2021/04/blog-post-1/
 tags:
   - Conda
@@ -47,9 +47,7 @@ You can access this remote server (which often run in Ubuntu/Linux) by using SSH
 
 You can do this by running WSL2, and typing something like this:
 
-```sh
-ssh myaccount@12.34.5.67
-```
+`ssh myaccount@12.34.5.67`
 
 You need to change it with your [user account]@[IP Address] of course.
 
