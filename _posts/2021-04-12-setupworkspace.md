@@ -27,15 +27,11 @@ There are many IDEs out there to try, but what I find quite easy as a beginner i
 
 ## Run Jupyter lab
 Run Jupyter Lab by typing:
-'''sh
-conda activate [your environment name]
-jupyter lab
-'''
+'conda activate [your environment name]`
+`jupyter lab'
 
 You might get something like this:
-'''sh
-http://localhost:8888/?token=6e62a781727536b7621e031c97924753fcd483fc0f06aaa0
-'''
+'http://localhost:8888/?token=6e62a781727536b7621e031c97924753fcd483fc0f06aaa0'
 
 Copy paste the link to your favorite browser (honestly, don't use google chrome). You can also type localhost:8888 (or whichever port was chosen) in the browser, but it might ask you for the token (which is the characters after ?token=)
 
@@ -59,17 +55,13 @@ As I want to leave the server running, and don't want to make the jupyter server
 
 The command is:
 
-```sh
-tmux
-```
+`tmux`
 
 ## Run jupyter server with tunnel
 Activate your environment, and run Jupyter lab:
 
-```sh
-conda activate [your environment]
-jupyter lab --no-browser --port 8889  
-```
+`conda activate [your environment]`
+`jupyter lab --no-browser --port 8889`
 
 Here, we run jupyter lab server without browser in port 8889. We can change the port as we like, but make sure it doesn't conflict with other already existing port. As we run it using tmux in a parallel session, we can close our ssh connection without terminating our server. 
 
@@ -78,9 +70,7 @@ PS: "take note of the jupyter token, or maybe set up a password"
 ## SSH tunnel
 To access our remote Jupyter server, we can initiate SSH session with specific port (which is our remote server port):
 
-```sh
-ssh -N -L 8889:localhost:8889 myaccount@12.34.5.67  
-```
+`ssh -N -L 8889:localhost:8889 myaccount@12.34.5.67`
 
 Then, we can access Jupyter in our browser by accessing Localhost:8889 (use the same port of our server)
 
