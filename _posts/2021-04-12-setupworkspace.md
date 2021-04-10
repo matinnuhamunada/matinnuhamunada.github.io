@@ -27,7 +27,8 @@ There are many IDEs out there to try, but what I find quite easy as a beginner i
 
 ## Run Jupyter lab
 Run Jupyter Lab by typing:
-'conda activate [your environment name]`
+
+`conda activate [your environment name]`
 `jupyter lab'
 
 You might get something like this:
@@ -61,6 +62,7 @@ The command is:
 Activate your environment, and run Jupyter lab:
 
 `conda activate [your environment]`
+
 `jupyter lab --no-browser --port 8889`
 
 Here, we run jupyter lab server without browser in port 8889. We can change the port as we like, but make sure it doesn't conflict with other already existing port. As we run it using tmux in a parallel session, we can close our ssh connection without terminating our server. 
