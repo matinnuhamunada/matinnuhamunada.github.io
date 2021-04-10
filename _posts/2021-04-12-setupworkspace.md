@@ -47,9 +47,9 @@ You can access this remote server (which often run in Ubuntu/Linux) by using SSH
 
 You can do this by running WSL2, and typing something like this:
 
-'''sh
+```sh
 ssh myaccount@12.34.5.67
-'''
+```
 
 You need to change it with your [user account]@[IP Address] of course.
 
@@ -61,17 +61,17 @@ As I want to leave the server running, and don't want to make the jupyter server
 
 The command is:
 
-'''sh
+```sh
 tmux
-'''
+```
 
 ## Run jupyter server with tunnel
 Activate your environment, and run Jupyter lab:
 
-'''sh
+```sh
 conda activate [your environment]
 jupyter lab --no-browser --port 8889  
-'''
+```
 
 Here, we run jupyter lab server without browser in port 8889. We can change the port as we like, but make sure it doesn't conflict with other already existing port. As we run it using tmux in a parallel session, we can close our ssh connection without terminating our server. 
 
@@ -80,9 +80,9 @@ PS: "take note of the jupyter token, or maybe set up a password"
 ## SSH tunnel
 To access our remote Jupyter server, we can initiate SSH session with specific port (which is our remote server port):
 
-'''ssh
+```sh
 ssh -N -L 8889:localhost:8889 myaccount@12.34.5.67  
-'''
+```
 
 Then, we can access Jupyter in our browser by accessing Localhost:8889 (use the same port of our server)
 
