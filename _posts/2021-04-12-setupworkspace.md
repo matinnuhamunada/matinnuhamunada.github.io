@@ -13,17 +13,17 @@ Hi, in this post I would like to share about my working environment (Windows wit
 ## Install WSL2 with Ubuntu
 I'm used to using Windows PC (not a fan of mac), and that's what I got from the center. Unfortunately, it is just not possible to do bionformatics with Windows (horrible experience with dual boot and Linux VM). No worries there, WSL2 has been available for those of us who doesn't want to part with Windows but would like to learn/develop using Linux.
 
-So far I don't have many problem using WSL2 with Ubuntu-20.04 and have been using it for my daily routine. You can find WSL2 docs [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and there are many blogs out there describing how to install it in your PC.
+So far I don't have many problem using WSL2 with Ubuntu-20.04 and have been using it for my daily routine. You can find WSL2 docs [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10){:target="_blank"} and there are many blogs out there describing how to install it in your PC.
 
 ## Install conda
 I don't know what people say, but to me conda is a nice tool to manage Python and other packages for bioinformatics. 
 
-After finishing your WSL2 and Ubuntu installation, run the ubuntu terminal and install Anaconda (or miniconda) following the docs [here](https://docs.anaconda.com/anaconda/install/)
+After finishing your WSL2 and Ubuntu installation, run the ubuntu terminal and install Anaconda (or miniconda) following the docs [here](https://docs.anaconda.com/anaconda/install/){:target="_blank"}
 
 ## Create env with Jupyter Lab
-Always work in separate environment! You don't want to go into the nigthmare of figuring out conflicted packages, so run your projects in different environment. Learn more about conda environment [here](https://docs.conda.io/projects/conda/en/4.6.1/user-guide/tasks/manage-environments.html)
+Always work in separate environment! You don't want to go into the nigthmare of figuring out conflicted packages, so run your projects in different environment. Learn more about conda environment [here](https://docs.conda.io/projects/conda/en/4.6.1/user-guide/tasks/manage-environments.html){:target="_blank"}
 
-There are many IDEs out there to try, but what I find quite easy as a beginner is using Jupyter Lab. So, start by creating your project environment and install Jupyter Lab following this [docs](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+There are many IDEs out there to try, but what I find quite easy as a beginner is using Jupyter Lab. So, start by creating your project environment and install Jupyter Lab following this [docs](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html){:target="_blank"}
 
 ## Run Jupyter lab
 Run Jupyter Lab by typing:
@@ -88,4 +88,4 @@ ssh -N -L 8889:localhost:8889 myaccount@12.34.5.67
 Then, we can access Jupyter in our browser by accessing Localhost:8889 (use the same port of our server)
 
 # Something else to try
-Jupyter is nice, but it might not be the best code editors out there. I've been trying [atom hydrogen](https://atom.io/packages/hydrogen) but to no success integrating with WSL2. Right now I'm trying out [Microsoft Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} which works really nicely with WSL2.
+Jupyter is nice, but it might not be the best code editors out there. I've been trying [atom hydrogen](https://atom.io/packages/hydrogen){:target="_blank"} but to no success integrating with WSL2. Right now I'm trying out [Microsoft Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} which works really nicely with WSL2.
