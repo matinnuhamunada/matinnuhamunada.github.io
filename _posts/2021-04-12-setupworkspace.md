@@ -9,6 +9,7 @@ tags:
 ---
 
 ![JupyterLab](https://jupyterlab.readthedocs.io/en/stable/_images/jupyterlab.png)
+*User interface of Jupyter Lab, from [https://jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io){:target="_blank"} *
 
 Hi, in this post, I would like to share my working environment (Windows 10 with WSL2) and daily routine using Jupyter with conda and also setting those environments in a remote server. 
 
@@ -74,7 +75,7 @@ You can do this by running WSL2 and typing something like this:
 ssh myaccount@12.34.5.67`
 ```
 
-You need to change it with your [user account]@[IP Address], of course.
+You need to change it with your `[user account]@[IP Address]`, of course.
 
 ## Create env with Jupyter Lab
 If your remote server runs on Ubuntu/Linux, you can start by setting up a conda environment and installing Jupyter Lab similar to the steps above.
@@ -115,7 +116,7 @@ Then, we can access Jupyter in our browser by accessing Localhost:8889 (use the 
 Jupyter is nice, but it might not be the best code editors out there. I've been trying [atom hydrogen](https://atom.io/packages/hydrogen){:target="_blank"} but to no success integrating with WSL2. Right now, I'm trying out [Microsoft Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} which works nicely with WSL2.
 
 # Small accident
-So, in the center, we have this shared drive (called the O:Drive) where people can save their files. This drive was located in a different server (different machine) than the machine where I run my Jupyter server (Called the NBC-Shared). As the O:Drive is much more accessible to share with the rest of the group, I thought it would be fine if I run the script in NBC-shared and read/write the data in O:Drive. This is totally a mistake which caused my admin needed to restart the whole NBC-shared server! The problem caused by I/O error (as the script runs in a different physical machine than the harddrive), probably due to internet connection, and raised the issue called the [Uninterruptible Sleep (D) State](https://www.suse.com/support/kb/doc/?id=000016919). This process cannot be "killed", and in my case, the processes filled up all my resources causing me to freeze when I login using SSH. Thus, the only way to resolve this is to restart the machine. 
+So, in the center, we have this shared drive (called the O:Drive) where people can save their files. This drive was located in a different server (different machine) than the machine where I run my Jupyter server (Called the NBC-Shared). As the O:Drive is much more accessible to share with the rest of the group, I thought it would be fine if I run the script in NBC-shared and read/write the data in O:Drive. This is totally a mistake which caused my admin needed to restart the whole NBC-shared server! The problem caused by I/O error (as the script runs in a different physical machine than the harddrive), probably due to internet connection, and raised the issue called the [Uninterruptible Sleep (D) State](https://www.suse.com/support/kb/doc/?id=000016919){:target="_blank"} . This process cannot be "killed", and in my case, the processes filled up all my resources causing me to freeze when I login using SSH. Thus, the only way to resolve this is to restart the machine. 
 
 Lesson learned, I'll use the local storage of the server for future work.
 
