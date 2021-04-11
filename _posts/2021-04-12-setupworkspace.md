@@ -20,6 +20,10 @@ I'm used to using Windows PC (not a fan of mac), which is also the work laptop I
 
 So far, I don't have any problem using WSL2 with Ubuntu-20.04 and using it for my daily routine. You can find WSL2 docs [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10){:target="_blank"} and there are many blogs out there describing how to install it on your PC.
 
+| ![Ubuntu](https://docs.microsoft.com/en-us/windows/wsl/media/ubuntustore.png) |
+|:--:|
+| *Go get the latest Ubuntu Distribution for WSL2, from [https://docs.microsoft.com/windows/wsl/install-win10](https://docs.microsoft.com/windows/wsl/install-win10){:target="_blank"}* |
+
 ## Install Conda
 I don't know what people say, but to me, conda is a friendly tool to manage Python and other packages for bioinformatics. 
 
