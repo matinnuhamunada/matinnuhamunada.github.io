@@ -28,11 +28,15 @@ There are many IDEs out there to try, but what I find quite easy as a beginner i
 ## Run Jupyter lab
 Run Jupyter Lab by typing:
 
-`conda activate [your environment name]`
-`jupyter lab`
-
+```sh
+conda activate [your environment name]
+jupyter lab
+```
 You might get something like this:
-`http://localhost:8888/?token=6e62a781727536b7621e031c97924753fcd483fc0f06aaa0`
+
+```sh
+http://localhost:8888/?token=6e62a781727536b7621e031c97924753fcd483fc0f06aaa0`
+```
 
 Copy paste the link to your favorite browser (honestly, don't use google chrome). You can also type localhost:8888 (or whichever port was chosen) in the browser, but it might ask you for the token (which is the characters after ?token=)
 
@@ -44,7 +48,9 @@ You can access this remote server (which often run in Ubuntu/Linux) by using SSH
 
 You can do this by running WSL2, and typing something like this:
 
-`ssh myaccount@12.34.5.67`
+```sh
+ssh myaccount@12.34.5.67`
+```
 
 You need to change it with your [user account]@[IP Address] of course.
 
@@ -56,14 +62,17 @@ As I want to leave the server running, and don't want to make the jupyter server
 
 The command is:
 
-`tmux`
+```sh
+tmux
+```
 
 ## Run jupyter server with tunnel
 Activate your environment, and run Jupyter lab:
 
-`conda activate [your environment]`
-
-`jupyter lab --no-browser --port 8889`
+```sh
+conda activate [your environment]
+jupyter lab --no-browser --port 8889
+```
 
 Here, we run jupyter lab server without browser in port 8889. We can change the port as we like, but make sure it doesn't conflict with other already existing port. As we run it using tmux in a parallel session, we can close our ssh connection without terminating our server. 
 
@@ -72,9 +81,11 @@ PS: "take note of the jupyter token, or maybe set up a password"
 ## SSH tunnel
 To access our remote Jupyter server, we can initiate SSH session with specific port (which is our remote server port):
 
-`ssh -N -L 8889:localhost:8889 myaccount@12.34.5.67`
+```sh
+ssh -N -L 8889:localhost:8889 myaccount@12.34.5.67
+```
 
 Then, we can access Jupyter in our browser by accessing Localhost:8889 (use the same port of our server)
 
 # Something else to try
-Jupyter is nice, but it might not be the best code editors out there. I've been trying [atom hydrogen](https://atom.io/packages/hydrogen) but to no success integrating with WSL2. Right now I'm trying out [Microsoft Visual Studio Code](https://code.visualstudio.com/) which works really nicely with WSL2.
+Jupyter is nice, but it might not be the best code editors out there. I've been trying [atom hydrogen](https://atom.io/packages/hydrogen) but to no success integrating with WSL2. Right now I'm trying out [Microsoft Visual Studio Code](https://code.visualstudio.com/){:target="_blank"} which works really nicely with WSL2.
