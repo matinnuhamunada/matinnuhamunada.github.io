@@ -1,11 +1,14 @@
 ---
 title: 'Setting up Jupyter using Conda in WSL2'
 date: 2021-04-10
-permalink: /posts/2021/04/blog-post-1/
+permalink: /posts/2021/04/jupyter-wsl2/
 tags:
   - Conda
   - Jupyter
+  - Server
 ---
+
+![JupyterLab](https://jupyterlab.readthedocs.io/en/stable/_images/jupyterlab.png)
 
 Hi, in this post, I would like to share my working environment (Windows 10 with WSL2) and daily routine using Jupyter with conda and also setting those environments in a remote server. 
 
