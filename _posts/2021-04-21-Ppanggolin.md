@@ -1,6 +1,6 @@
 ---
 title: 'Trying out Ppanggolin'
-date: 2021-04-04
+date: 2021-04-21
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - Conda
