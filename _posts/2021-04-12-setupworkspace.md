@@ -10,7 +10,7 @@ tags:
 
 | ![JupyterLab](https://jupyterlab.readthedocs.io/en/stable/_images/jupyterlab.png) |
 |:--:| 
-| *User interface of Jupyter Lab, from [https://jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io){:target="_blank"} * |
+| *User interface of Jupyter Lab, from [https://jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io){:target="_blank"}* |
 
 Hi, in this post, I would like to share my working environment (Windows 10 with WSL2) and daily routine using Jupyter with conda and also setting those environments in a remote server. 
 
