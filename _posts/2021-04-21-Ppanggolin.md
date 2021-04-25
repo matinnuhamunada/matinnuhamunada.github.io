@@ -6,7 +6,7 @@ tags:
   - Conda
 ---
 
-! [ppanggollin](https://github.com/labgem/PPanGGOLiN/blob/master/images/logo.png)
+![ppanggollin](https://github.com/labgem/PPanGGOLiN/blob/master/images/logo.png)
 
 Hi, came across these tools that utilises graph assembly to visualize pangenomes.
 
