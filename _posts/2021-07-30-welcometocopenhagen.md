@@ -13,13 +13,27 @@ tags:
 
 Hai! Selamat datang di Copenhagen! 
 
-Tulisan ini ditujukan bagi mahasiswa Indonesia yang sedang atau akan memulai studi di Denmark. Pada kesempatan ini, saya akan berbagi pengalaman dan tips-tips untuk memulai hidup di Denmark, terutama bagi _employed PhD_.
+Tulisan ini ditujukan bagi mahasiswa Indonesia yang sedang atau akan memulai studi di Denmark. Di tulisan ini anda akan menemukan pengalaman dan tips-tips untuk memulai hidup di Denmark. Tulisan ini mungkin cukup relevan bagi _employed PhD_ yang membawa istri dan anak.
 
-Berikut tips-tips yang saya dapatkan dari Randy Frans Fela:
+# Sebelum Kedatangan
 
+# Saat Kedatangan
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/74926e56-aab0-4d62-b6f2-4f0428cf610c" id="WLBZOw.k0UeU"></iframe></div>
+
+## Registration
+CPR (pink card) + Kartu dokter (yellow card) kalau bisa secepatnya. Dulu sih di Komune dan lgsg dtg. Cb nanti tanya temen² aja.
+
+## Bank Account
+Dulu ak bisa langsung bikin walaupun blm ada Pink Card.
+Sebetulnya CPR nr kita udh ada di granted visa (kertas yg dikasih bareng Visa).
+Trus dulu baik urus registrasi maupun bikin bank account, perlu ada Witness (dulu sih team leader). Karena tiap transaksi nanti perlu NemID (semacam kode konfirmasi/keamanan gitu khusus Denmark). Nah nt perannya saksi itu disitu untuk bantu tiap konfirmasi.
+
+# _Daily Life_
+Berikut tips-tips yang saya dapatkan dari Randy Frans Fela.
 ## Halal Food and Drinks
 - Harga makanan jadi di restoran dan cafe relatif mahal. Restoran dan Cafe yang menjual makanan halal, biasanya punya label halal, seperti kedai2 Kebab dll. 
-- Pesen makanan dadakan, hungry.dk
+- Pesen makanan dadakan (seperti GoFood): [hungry.dk](https://www.hungry.dk)
 
 ## Groceries & Bahan makanan
 - Umumnya ayam mentah di Denmark halal (95%an), bisa diliat di logonya kalo beli di stores.
@@ -35,28 +49,19 @@ Berikut tips-tips yang saya dapatkan dari Randy Frans Fela:
 - Asian Market banyak di Main Station. Kalau naik kereta bisa pas keluar main station langsung ada beberapa disitu. Langganan orang Indo biasanya Kabul Marked, toko cina di gedung sebelahnya, sama KFT Asian Shop. Untuk beli daging (selain ayam) halal ada di Slagter Alibaba.
 
 ## Kartu sim card
-- Lebara (biasanya paling murah dan stabil jaringannya). https://mobile.lebara.com/dk/en
-- Bisa order online. Kartu dikirim. Ada apps nya juga.
+- [Lebara](https://mobile.lebara.com/dk/en) (biasanya paling murah dan stabil jaringannya). . Bisa order online. Kartu dikirim. Ada apps nya juga.
 
 ## Transportasi
-* A. Kartu (rejsekort)
+* Kartu (rejsekort)
     Bisa order kartu disini: https://www.rejsekort.dk/ atau di main station.
     Disini ga umum beli tiket di atas. Apalgi kalo pakai kembalian. Dan gabisa beli pakai kartu kredit/debit.
-* B. Apps
-    Beberapa apps yang mesti ada. 1) Rejseplanen (fungsinya mirip google maps tp lbh akurat untuk dipakai di Denmark). 2) DSB https://play.google.com/store/apps/details?id=dk.dsb.nda.android dan DOT https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb sejauh ini kyknya fungsinya sama aja sih antara 2 ini. Bayarnya bisa pakai kartu kalau beli tiket di app ini.
+* Apps
+    Beberapa apps yang mesti ada. 1) Rejseplanen (fungsinya mirip google maps tp lbh akurat untuk dipakai di Denmark). 2) [DSB](https://play.google.com/store/apps/details?id=dk.dsb.nda.android) dan [DOT](https://play.google.com/store/apps/details?id=com.cellpointmobile.mticket.travelcard.dsb) sejauh ini kyknya fungsinya sama aja sih antara 2 ini. Bayarnya bisa pakai kartu kalau beli tiket di app ini.
     Oh iya, kalo beli tiket satuan itu berlakunya dalam waktu ya, bukan skali jalan. Jadi klo waktunya masih ada dan perlu transportasi di zona yg sama, ga perlu beli lagi.
     Rule of thumb kalo udh dapet kartu (rejsekort) adalah: harus tap in tiap naik transportasi/pindah ke transportasi satunya. Hanya tap out ketika sudah sampai tempat tujuan.
 
 ## Transaksi
-Ada apps untuk bayar transaksi bebas biaya (bisa ke temen, atau byr belanja kalo mereka ada) namanya mobileapp (butuh nomor dan akun bank DK). 
-
-## Registration
-CPR (pink card) + Kartu dokter (yellow card) kalau bisa secepatnya. Dulu sih di Komune dan lgsg dtg. Cb nanti tanya temen² aja.
-
-## Bank Account
-Dulu ak bisa langsung bikin walaupun blm ada Pink Card.
-Sebetulnya CPR nr kita udh ada di granted visa (kertas yg dikasih bareng Visa).
-Trus dulu baik urus registrasi maupun bikin bank account, perlu ada Witness (dulu sih team leader). Karena tiap transaksi nanti perlu NemID (semacam kode konfirmasi/keamanan gitu khusus Denmark). Nah nt perannya saksi itu disitu untuk bantu tiap konfirmasi.
+Ada apps untuk bayar transaksi bebas biaya (bisa ke temen, atau byr belanja kalo mereka ada) namanya MobilePay (butuh nomor dan akun bank DK). 
 
 ## Ibadah
 Jadwal sholat bisa ikut ini http://wakf.com/ atau bisa download app my Masjid https://play.google.com/store/apps/details?id=com.teo.mymasjid dan pilih referensinya.
