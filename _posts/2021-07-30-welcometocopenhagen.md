@@ -13,7 +13,7 @@ tags:
 
 Hai! Selamat datang di Copenhagen! 
 
-Tulisan ini ditujukan bagi mahasiswa Indonesia yang sedang atau akan memulai studi di Denmark. Di tulisan ini anda akan menemukan pengalaman dan tips-tips untuk memulai hidup di Denmark. Tulisan ini mungkin cukup relevan bagi _employed PhD_ yang membawa istri dan anak.
+Tulisan ini ditujukan bagi mahasiswa Indonesia yang sedang atau akan memulai studi di Denmark. Anda akan menemukan pengalaman dan tips-tips untuk memulai hidup di Denmark. Tulisan ini akan cukup relevan bagi _employed PhD_ yang membawa istri dan anak.
 
 # Sebelum Kedatangan
 
@@ -21,16 +21,15 @@ Tulisan ini ditujukan bagi mahasiswa Indonesia yang sedang atau akan memulai stu
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/74926e56-aab0-4d62-b6f2-4f0428cf610c" id="WLBZOw.k0UeU"></iframe></div>
 
-## Registration
-CPR (pink card) + Kartu dokter (yellow card) kalau bisa secepatnya. Dulu sih di Komune dan lgsg dtg. Cb nanti tanya temen² aja.
+## Registrasi
+Informasi utama terkait registrasi penduduk ada di [https://ihcph.kk.dk/](https://ihcph.kk.dk/). Segera proses CPR (pink card) & Kartu dokter (yellow card) secepatnya. Selain di International House, beberapa rekan juga bisa mengurus di Kommune (sebelum pandemi). Coba hubungi kommune masing-masing untuk informasi lebih terkini.
 
-## Bank Account
-Dulu ak bisa langsung bikin walaupun blm ada Pink Card.
-Sebetulnya CPR nr kita udh ada di granted visa (kertas yg dikasih bareng Visa).
-Trus dulu baik urus registrasi maupun bikin bank account, perlu ada Witness (dulu sih team leader). Karena tiap transaksi nanti perlu NemID (semacam kode konfirmasi/keamanan gitu khusus Denmark). Nah nt perannya saksi itu disitu untuk bantu tiap konfirmasi.
+## Bank Account & NemID
+Setelah registrasi, saya dulu bisa langsung membuat akun Bank (NemKonto) walaupun belum ada Pink Card. NemID dapat kita urus sendiri, atau minta tolong pihak Bank. WARNING: Pilih salah satu cara untuk membuat NemID (mandiri atau via bank), jangan diproses dua-duanya karena nanti bisa konflik dan membuat prosesnya lebih lama.
+Untuk lebih mempercepat proses pembuatan NemID, kita bisa menghadirkan witness (yang sudah memiliki NemID). Tanpa witness, kartu kode NemID akan dikirimkan via mailbox sekitar 1-2 minggu. Dengan witness kartu kode bisa didapatkan langsung di tempat.
 
 # _Daily Life_
-Berikut tips-tips yang saya dapatkan dari Randy Frans Fela.
+Berikut tips-tips untuk kehidupan sehari-hari yang saya dapatkan dari Randy Frans Fela.
 ## Halal Food and Drinks
 - Harga makanan jadi di restoran dan cafe relatif mahal. Restoran dan Cafe yang menjual makanan halal, biasanya punya label halal, seperti kedai2 Kebab dll. 
 - Pesen makanan dadakan (seperti GoFood): [hungry.dk](https://www.hungry.dk)
