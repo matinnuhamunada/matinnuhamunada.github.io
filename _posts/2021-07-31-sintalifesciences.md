@@ -6,18 +6,16 @@ tags:
   - Indonesia
   - SINTA
 ---
-## test6
+# SINTA Life Sciences author rank distribution
+Check the source [here](https://github.com/matinnuhamunada/SINTA_data_mining)
 
 <iframe src="/files/bio_sinta.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="100%"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
 
-
-
-## test6
-test
+Find how to embed html [here](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/)
