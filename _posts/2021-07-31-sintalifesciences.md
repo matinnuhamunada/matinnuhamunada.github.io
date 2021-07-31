@@ -7,4 +7,4 @@ tags:
   - SINTA
 ---
 
-<embed type="text/html" src="files/bio_sinta.html" width="600" height="400"></embed>
+<embed type="text/html" src="../files/bio_sinta.html" width="600" height="400"></embed>
