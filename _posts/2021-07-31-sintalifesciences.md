@@ -1,7 +1,7 @@
 ---
 title: 'Life Science Landscape in SINTA'
 date: 2021-07-31
-permalink: /posts/2021/07/sintalifescience
+permalink: /posts/2021/07/sintalifesciences
 tags:
   - Indonesia
   - SINTA
