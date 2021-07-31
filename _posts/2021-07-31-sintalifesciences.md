@@ -6,15 +6,18 @@ tags:
   - Indonesia
   - SINTA
 ---
-## test5
+## test6
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="../../master/files/bio_sinta.html"></iframe></div>
+<iframe src="/files/bio_sinta.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
-## Testing
-trying embed html
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://cdn.jsdelivr.net/gh/matinnuhamunada/SINTA_data_mining@master/figures/bio_sinta.html"></iframe></div>
 
 
-## test2
+## test6
 test
