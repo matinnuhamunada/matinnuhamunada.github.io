@@ -8,7 +8,7 @@ tags:
 ---
 ## test3
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="../figures/bio_sinta.html"></iframe></div>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="../files/bio_sinta.html"></iframe></div>
 
 ## Testing
 trying embed html
