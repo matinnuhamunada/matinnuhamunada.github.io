@@ -22,23 +22,16 @@ Tulisan ini bertujuan untuk memetakan peneliti _life sciences_ di Indonesia. Den
 * Pemilihan institusi dan bidang ilmu peneliti sepenuhnya subjektif (bidang ilmu apa saja yang termasuk _Life Sciences?_)
 
 ## _The Result_
-<iframe src="/files/bio_sinta.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="105%"
-    height="610"
-    scrolling="yes"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-<iframe src="https://raw.githubusercontent.com/matinnuhamunada/SINTA_data_mining/master/figures/bio_sinta.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="620"
-    scrolling="yes"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+<div class="container">
+  <iframe src="/files/bio_sinta.html"
+      sandbox="allow-same-origin allow-scripts"
+      width="100%"
+      height="610"
+      scrolling="yes"
+      seamless="seamless"
+      frameborder="0">
+  </iframe>
+</div>
 
 ## _Backstory_
 Proyek iseng scraping peneliti _life sciences_ di Indonesia ini berawal dari kesulitan saya menjawab pertanyaan seorang kolega di tahun 2018: **"Siapa sih pakar biologi molekuler di UGM? Penelitiannya tentang apa?"** 
