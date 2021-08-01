@@ -26,8 +26,8 @@ Tulisan ini bertujuan untuk memetakan peneliti _life sciences_ di Indonesia. Den
   <iframe src="/files/bio_sinta.html"
       sandbox="allow-same-origin allow-scripts"
       width="100%"
-      height="700"
-      scrolling="no"
+      height="710"
+      scrolling="yes"
       seamless="seamless"
       frameborder="0">
   </iframe>
