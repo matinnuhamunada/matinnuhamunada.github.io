@@ -27,7 +27,7 @@ Tulisan ini bertujuan untuk memetakan peneliti _life sciences_ di Indonesia. Den
       sandbox="allow-same-origin allow-scripts"
       width="100%"
       height="710"
-      scrolling="yes"
+      scrolling="no"
       seamless="seamless"
       frameborder="0">
   </iframe>
