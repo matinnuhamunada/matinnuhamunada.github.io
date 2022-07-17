@@ -55,3 +55,5 @@ Tentu analisis ini masih jauh dari sempurna dan dibuat demi keisengan semata. Ol
 * _Check the source_ [**_here_**](https://github.com/matinnuhamunada/SINTA_data_mining)
 
 Terima kasih sudah membaca tulisan ini :)
+
+Updated 17-07-2022
