@@ -6,9 +6,9 @@ tags:
   - Indonesia
   - SINTA
 ---
-| ![SINTA](https://sinta.ristekbrin.go.id/assets/img/sinta_logo.png) |
+| ![SINTA](https://sinta.kemdikbud.go.id/public/assets/img/brand_sinta.png) |
 |:--:| 
-| [SINTA - Database peneliti dan dosen Indonesia](https://sinta.ristekbrin.go.id/)
+| [SINTA - Database peneliti dan dosen Indonesia](https://sinta.kemdikbud.go.id/)
 
 _Check the source_ [**_here_**](https://github.com/matinnuhamunada/SINTA_data_mining)
 
