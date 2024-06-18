@@ -8,14 +8,19 @@ tags:
   - Dosen
 ---
 
-| ![SINTA](https://pusatinformasi.sister.kemdikbud.go.id/hc/article_attachments/32738952650777) |
+| ![Rumpun Ilmu Kemdikbud](https://www.kemdikbud.go.id/assets/imgs/kemdikbud_64x64.png) |
 |:--:| 
-| [Hierarki Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu)
+| [Hierarki Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu) |
 
 ### Kisruh Akhir Pekan
 Pada bulan Mei lalu, dunia akademisi Indonesia dihebohkan dengan pemetaan data rumpun ilmu oleh Kementerian Pendidikan dan Kebudayaan. Saya pun tidak luput dari keributan ini. Pada Jumat sore, saya tiba-tiba mendapat undangan rapat di akhir pekan bersama anggota lab di Jogja. Karena mendadak, saya tidak sempat mempelajari latar belakang dan detail pemetaan bidang ilmu ini. Seingat saya, ahun sebelumnya kami pernah mengisi formulir terkait pengembangan ilmu di lab. Materi yang tersedia untuk rapat akhir pekan tersebut hanyalah tautan pdf berjudul `Daftar Rumpun, Pohon, dan Cabang Ilmu (2024).pdf` yang dibagikan dari grup WhatsApp, berisi tabel daftar cabang ilmu sepanjang 38 halaman. Kami diminta memilih satu cabang ilmu yang akan melekat sepanjang karir kami sebagai dosen.
 
 ### Mencari Cabang Ilmu yang Sesuai
+
+| ![Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/article_attachments/32738952650777) |
+|:--:| 
+| [Hierarki Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu) |
+
 Setelah mencoba memahami situasi ini, saya menemukan bahwa informasi lengkapnya bisa diakses di [laman Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu). Kesesuaian cabang ilmu harus didasarkan pada pendidikan formal dosen, yaitu ijazah tertinggi yang mereka miliki (S2/S3). Hal ini seharusnya mempermudah anggota lab dalam memilih cabang ilmu yang tepat, karena tinggal menyesuaikannya dengan bidang studi yang mereka tekuni saat sekolah dan rekam jejak publikasi mereka.
 
 Kerumitan yang banyak dihadapi kolega dosen adalah mencari istilah cabang ilmu yang disediakan oleh kemdikbud. Setelah menilik lebih jeli, ternyata, PDF tersebut sudah direvisi beberapa kali, dan saya tidak menggunakan dokumen yang terbaru:

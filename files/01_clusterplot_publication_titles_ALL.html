@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.17.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "hconcat": [{"data": {"name": "data-3892a60488f318e518e1ce6aa5e4a80a"}, "mark": {"type": "line", "point": true}, "encoding": {"tooltip": [{"field": "k", "type": "quantitative"}, {"field": "WCSS", "type": "quantitative"}], "x": {"axis": {"labelFontSize": 10, "titleFontSize": 10}, "field": "k", "title": "Number of Clusters (k)", "type": "quantitative"}, "y": {"axis": {"labelFontSize": 10, "titleFontSize": 10}, "field": "WCSS", "title": "WCSS", "type": "quantitative"}}, "height": 150, "title": {"text": "Elbow Method for Optimal k", "fontSize": 12}, "width": 150}, {"data": {"name": "data-fb63e28f5ab8cba3f7e313308283d053"}, "mark": {"type": "line", "point": true}, "encoding": {"tooltip": [{"field": "k", "type": "quantitative"}, {"field": "Silhouette Score", "type": "quantitative"}], "x": {"axis": {"labelFontSize": 10, "titleFontSize": 10}, "field": "k", "title": "Number of Clusters (k)", "type": "quantitative"}, "y": {"axis": {"labelFontSize": 10, "titleFontSize": 10}, "field": "Silhouette Score", "title": "Silhouette Score", "type": "quantitative"}}, "height": 150, "title": {"text": "Silhouette Score for Optimal k", "fontSize": 12}, "width": 150}, {"data": {"name": "data-81c9205d9e26dc9fd21a2dbb445b9ac4"}, "mark": {"type": "line", "point": true}, "encoding": {"tooltip": [{"field": "k", "type": "quantitative"}, {"field": "Davies-Bouldin Index", "type": "quantitative"}], "x": {"axis": {"labelFontSize": 10, "titleFontSize": 10}, "field": "k", "title": "Number of Clusters (k)", "type": "quantitative"}, "y": {"axis": {"labelFontSize": 10, "titleFontSize": 10}, "field": "Davies-Bouldin Index", "title": "Davies-Bouldin Index", "type": "quantitative"}}, "height": 150, "title": {"text": "Davies-Bouldin Index for Optimal k", "fontSize": 12}, "width": 150}], "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json", "datasets": {"data-3892a60488f318e518e1ce6aa5e4a80a": [{"k": 2, "WCSS": 14.515205235594168}, {"k": 3, "WCSS": 10.920788052304378}, {"k": 4, "WCSS": 6.607053380803948}, {"k": 5, "WCSS": 5.44637659073869}, {"k": 6, "WCSS": 4.813920665499734}, {"k": 7, "WCSS": 4.074214559877036}, {"k": 8, "WCSS": 3.95277159572722}, {"k": 9, "WCSS": 3.3825313227914977}, {"k": 10, "WCSS": 2.9792360378329126}, {"k": 11, "WCSS": 2.808430152210983}, {"k": 12, "WCSS": 2.5621938126878954}, {"k": 13, "WCSS": 2.443068202654284}, {"k": 14, "WCSS": 2.252061282213582}, {"k": 15, "WCSS": 2.1955119208897873}, {"k": 16, "WCSS": 2.1341067322316913}, {"k": 17, "WCSS": 2.0793533749564657}, {"k": 18, "WCSS": 1.87062403799179}, {"k": 19, "WCSS": 1.884367157981841}, {"k": 20, "WCSS": 1.7683710129335921}], "data-fb63e28f5ab8cba3f7e313308283d053": [{"k": 2, "Silhouette Score": 0.3050070917976546}, {"k": 3, "Silhouette Score": 0.30570089105275344}, {"k": 4, "Silhouette Score": 0.3806957670947636}, {"k": 5, "Silhouette Score": 0.32668877835844634}, {"k": 6, "Silhouette Score": 0.32563966396529204}, {"k": 7, "Silhouette Score": 0.32436017954594487}, {"k": 8, "Silhouette Score": 0.29641107032793057}, {"k": 9, "Silhouette Score": 0.3239160154961917}, {"k": 10, "Silhouette Score": 0.3178839437495621}, {"k": 11, "Silhouette Score": 0.3046774777347166}, {"k": 12, "Silhouette Score": 0.3047209178498287}, {"k": 13, "Silhouette Score": 0.27836101113847783}, {"k": 14, "Silhouette Score": 0.2908608012434854}, {"k": 15, "Silhouette Score": 0.27415937266190854}, {"k": 16, "Silhouette Score": 0.26841472752968437}, {"k": 17, "Silhouette Score": 0.25656297215183915}, {"k": 18, "Silhouette Score": 0.2874393389349949}, {"k": 19, "Silhouette Score": 0.2534206457982677}, {"k": 20, "Silhouette Score": 0.25979298458443073}], "data-81c9205d9e26dc9fd21a2dbb445b9ac4": [{"k": 2, "Davies-Bouldin Index": 1.4743020490856882}, {"k": 3, "Davies-Bouldin Index": 1.1334729903593468}, {"k": 4, "Davies-Bouldin Index": 0.9028982825137963}, {"k": 5, "Davies-Bouldin Index": 0.9806209142695497}, {"k": 6, "Davies-Bouldin Index": 0.938067236720476}, {"k": 7, "Davies-Bouldin Index": 0.8968603624869471}, {"k": 8, "Davies-Bouldin Index": 1.0239773743775662}, {"k": 9, "Davies-Bouldin Index": 0.9574229577096952}, {"k": 10, "Davies-Bouldin Index": 0.8745621500170383}, {"k": 11, "Davies-Bouldin Index": 0.9651566229428639}, {"k": 12, "Davies-Bouldin Index": 1.0030438695046477}, {"k": 13, "Davies-Bouldin Index": 1.0555522025024615}, {"k": 14, "Davies-Bouldin Index": 1.0110857925023786}, {"k": 15, "Davies-Bouldin Index": 1.0894164427536084}, {"k": 16, "Davies-Bouldin Index": 1.069692495413591}, {"k": 17, "Davies-Bouldin Index": 1.113379453595012}, {"k": 18, "Davies-Bouldin Index": 1.0318897214390397}, {"k": 19, "Davies-Bouldin Index": 1.143977428589325}, {"k": 20, "Davies-Bouldin Index": 1.1261133909559404}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
