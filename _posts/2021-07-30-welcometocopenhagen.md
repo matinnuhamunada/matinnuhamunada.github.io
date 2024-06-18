@@ -7,9 +7,13 @@ tags:
   - Studi di Denmark
 ---
 
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Denmark_fixed.svg/1110px-Flag_of_Denmark_fixed.svg.png?20200405075927" width="25%" height="25%"> |
+|:--:| 
+|    |
+
 | ![Denmark](https://cdn.pixabay.com/photo/2019/02/21/20/47/denmark-4012240_960_720.jpg) |
 |:--:| 
-| Suasana di Nyhavn, Copenhagen
+| Suasana di Nyhavn, Copenhagen |
 
 Hai! Selamat datang di Copenhagen! 
 

@@ -8,6 +8,11 @@ tags:
   - Server
 ---
 
+| <img src="https://jupyter.org/assets/homepage/main-logo.svg" width="20%" height="20%"> |
+|:--:| 
+|    |
+
+
 | ![JupyterLab](https://jupyterlab.readthedocs.io/en/stable/_images/jupyterlab.png) |
 |:--:| 
 | *User interface of Jupyter Lab, from [https://jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io){:target="_blank"}* |
