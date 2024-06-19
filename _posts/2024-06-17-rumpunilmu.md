@@ -13,11 +13,11 @@ tags:
 | [Hierarki Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu) |
 
 ## Kisruh Akhir Pekan
-Pada bulan Mei lalu, dunia akademisi Indonesia dihebohkan dengan pemetaan data rumpun ilmu oleh Kementerian Pendidikan dan Kebudayaan. Saya pun tidak luput dari keributan ini. Pada Jumat sore, saya tiba-tiba mendapat undangan rapat di akhir pekan bersama anggota lab di Jogja. Karena mendadak, saya tidak sempat mempelajari latar belakang dan detail pemetaan bidang ilmu ini. Seingat saya, ahun sebelumnya kami pernah mengisi formulir terkait pengembangan ilmu di lab. Materi yang tersedia untuk rapat akhir pekan tersebut hanyalah tautan pdf berjudul `Daftar Rumpun, Pohon, dan Cabang Ilmu (2024).pdf` yang dibagikan dari grup WhatsApp, berisi tabel daftar cabang ilmu sepanjang 38 halaman. Kami diminta memilih satu cabang ilmu yang akan melekat sepanjang karir kami sebagai dosen.
+Pada bulan Mei lalu, dunia akademisi Indonesia dihebohkan dengan pemetaan data rumpun ilmu oleh Kementerian Pendidikan dan Kebudayaan. Saya pun tidak luput dari keributan ini. Pada Jumat sore, saya tiba-tiba mendapat undangan rapat di akhir pekan bersama anggota lab di Jogja. Karena mendadak, saya tidak sempat mempelajari latar belakang dan detail pemetaan bidang ilmu ini. Seingat saya, tahun sebelumnya kami pernah mengisi formulir terkait pengembangan ilmu di lab. Materi yang tersedia untuk rapat akhir pekan tersebut hanyalah tautan pdf berjudul `Daftar Rumpun, Pohon, dan Cabang Ilmu (2024).pdf` yang dibagikan dari grup WhatsApp, berisi tabel daftar cabang ilmu sepanjang 38 halaman. Kami diminta memilih satu cabang ilmu yang akan melekat sepanjang karir kami sebagai dosen.
 
 ## Mencari Cabang Ilmu yang Sesuai
 
-| ![Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/article_attachments/32738952650777) |
+| <img src="https://pusatinformasi.sister.kemdikbud.go.id/hc/article_attachments/32738952650777" width="75%" height="75%"> |
 |:--:| 
 | [Hierarki Rumpun Ilmu Kemdikbud](https://pusatinformasi.sister.kemdikbud.go.id/hc/en-gb/articles/31608506732057-Informasi-Umum-Rumpun-Ilmu) |
 
@@ -48,7 +48,7 @@ Untuk mempermudah pencarian (dan juga sedikit prokrastinasi dari menulis thesis)
 Saat ini, pihak Fakultas sedang mempersiapkan cabang-cabang ilmu dari dosen yang ada di home base-nya, melalui proses diskusi dan negosiasi di masing-masing laboratorium. Pada postingan berikut, saya mencoba mengeksplorasi dan mengelompokkan bidang ilmu masing-masing dosen melalui sepak terjang penelitiannya. Hal ini sejalan dengan pentingnya mencocokkan bidang ilmu dengan pendidikan formal dan publikasi yang telah dilakukan dosen, seperti yang saya temui sebelumnya dalam proses pemetaan rumpun ilmu.
 
 ### Klusterisasi Keilmuan Dosen Berdasarkan Judul Penelitian
-Disini saya mencoba menggunakan judul penelitian dari google scholar untuk mengelompokkan dosen-dosen yang memiliki bidang kepakaran yang mirip. Anda dapat mengakses data dan kode yang digunakan untuk analisis ini di repository [lab-biotek-bio-ugm/sinta_bio_ugm](https://github.com/lab-biotek-bio-ugm/sinta_bio_ugm)
+Saya mencoba menggunakan judul penelitian dari google scholar untuk mengelompokkan dosen-dosen yang memiliki bidang kepakaran yang mirip. Anda dapat mengakses data dan kode yang digunakan untuk analisis ini di repository [lab-biotek-bio-ugm/sinta_bio_ugm](https://github.com/lab-biotek-bio-ugm/sinta_bio_ugm)
 
 <div class="container">
   <iframe src="/files/01_clusterplot_publication_titles.html"
