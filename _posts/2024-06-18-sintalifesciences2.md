@@ -54,3 +54,14 @@ tags:
 </div>
 
 > PCA dari ekstraksi _word feature_ berdasarkan judul publikasi dosen di Google Scholar.
+
+<a href="/files/co-author_subgraph_network_all.graphml.png" data-title="Jejaring co-authorship dosen">
+    <img src="/files/co-author_subgraph_network_all.graphml.png" alt="Jejaring co-authorship dosen">
+</a>
+
+> Jejaring co-authorship dosen life science dari lima Universitas di Indonesia. Hanya co-author yang terhubung dengan lebih dari satu main author (dosen) ditunjukkan pada ilustrasi. Legend:
+![#E41A1C](https://placehold.co/15x15/E41A1C/E41A1C.png) `IPB`
+![#377EB8](https://placehold.co/15x15/377EB8/377EB8.png) `ITB`
+![#4DAF4A](https://placehold.co/15x15/4DAF4A/4DAF4A.png) `UB`
+![#984EA3](https://placehold.co/15x15/984EA3/984EA3.png) `UGM`
+![#41A1C](https://placehold.co/15x15/FF7F00/FF7F00.png) `UI`
