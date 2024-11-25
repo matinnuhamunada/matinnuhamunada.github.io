@@ -13,7 +13,7 @@ redirect_from:
 
 | Degree | Institution | Year |
 | --- | --- | --- |
-| Ph.D in Natural Products Genome Mining | Technical University of Denmark | 2024 (expected) |
+| Ph.D in Natural Products Genome Mining | Technical University of Denmark | 2024 |
 | MSc in Synthetic Biology & Biotechnology | The University of Edinburgh | 2016 |
 | BSc in Biology | Universitas Gadjah Mada | 2014 |
 
