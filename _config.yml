@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Matin Nuhamunada"
 title_separator          : "-"
 name                     : &name "Matin Nuhamunada"
-description              : &description "PhD Student at the Novo Nordisk Foundation Center for Biosustainability. Natural Products Genome Mining"
+description              : &description "Postdoctoral Researcher at the Novo Nordisk Foundation Center for Biosustainability. Natural Products Genome Mining"
 url                      : https://matinnuhamunada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matinnuhamunada.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Matin Nuhamunada"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at DTU Biosustain | Natural Products Genome Mining | Soil Microbiome"
+  bio              : "Postdoc at DTU Biosustain | Natural Products Genome Mining"
   location         : "Copenhagen"
   employer         : "DTU Biosustain"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "matinnu.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
